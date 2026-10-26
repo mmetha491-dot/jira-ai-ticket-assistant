@@ -1,0 +1,3 @@
+<Files "jira-config.php">
+    Require all denied
+</Files>
